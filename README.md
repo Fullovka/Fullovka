@@ -31,63 +31,11 @@
 - Bootstrap 5  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+- JavaScript  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  - Introduction to JavaScript
-    - What is JavaScript?
-    - History of JavaScript
-    - JavaScript Versions
-    - How to run JavaScript?
-  - All About Variables
-    - Variable Declarations
-      - var
-      - let
-      - const
-    - Hoisting
-    - Variable Naming Rules
-    - Variable Scopes
-      - Block
-      - Function
-      - Global
-  - Data Types
-    - Primitive Types
-      - string
-      - indefined
-      - number
-      - bigint
-      - boolean
-      - null
-      - Symbol
-    - Object
-    - Built-in Objects
-    - typeof operator
-  - Type Casting
-    - Type Conversion vs Coercion
-    - Explicit Type Casting
-    - Implicit Type Casting
-  - Data Structures
-    - ~~Keyed Collections~~
-      - ~~Map~~
-      - ~~Weak Map~~
-      - ~~Set~~
-      - ~~Weak Set~~
-    - Structured Data
-      - JSON
-    - Indexed Collections
-      - Arrays
-      - ~~Typed Arrays~~
-  - Equality Comparisons
-    - Value Comparison Operators
-      - ==
-      - ===
-      - Object.is
-    - ~~Equality Algorithms~~
-      - ~~isLooselyEqual~~
-      - ~~isStrictlyEqual~~
-      - ~~SameValueZero~~
-      - ~~SameValue~~
-  - Loops and Iterations
 
-- My SQL
+- Microsoft SQL Server  
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 - Git / GitHub  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
