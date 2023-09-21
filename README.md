@@ -34,8 +34,8 @@
 - JavaScript  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- Microsoft SQL Server  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- MySQL  
+![MySQL](https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 - Git / GitHub  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
