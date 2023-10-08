@@ -34,13 +34,17 @@
 - JavaScript  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+- Version Control Systems  
+![Git](https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white)
+
+- VSC Hosting  
+![GitHub](https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- Package Managers  
+![NPM](https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 - MySQL  
 ![MySQL](https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
-- Git / GitHub  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 ### Parting words (напутствие):
 - If you, like me, have decided to explore the IT industry, don't stop and keep moving forward! 
