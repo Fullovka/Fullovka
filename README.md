@@ -1,22 +1,21 @@
-### My name is Vorobyov Daniil and I'm glad to welcome you to my GitHub profile!
-- I am a beginner frontend developer and I am passionately learning HTML, CSS, and JavaScript. 
-- I am exploring various frameworks and tools for developing web applications, such as Bootstrap, React, and SASS. 
-- I enjoy working with modern technologies and creating beautiful and functional user interfaces. 
-- I strive to improve my skills and find opportunities for growth in this field.  
+### Дорогой друг! Позволь представиться: Воробьев Даниил, frontend-разработчик. Ты находишься на моей GitHub-страничке, и я рад твоему визиту!
 
-### Work experience (опыт работы):
-- Although I don't have official work experience in the IT industry, I have commercial experience that is no less important. 
-- I have worked on creating small websites, game projects, and other interesting projects that allowed me to develop my skills and improve my knowledge. 
-- This experience gave me an understanding of how to work in a team and solve various programming-related problems. 
-- I am ready for new challenges and strive to use my experience and knowledge to become a successful and valuable member of a development team.
+- Я активно развиваюсь в сфере frontend-разработки и уже продвинулся далеко за пределы начальных навыков. Моя текущая база знаний включает в себя владение HTML5, CSS3, включая препроцессоры, такие как Sass и Scss во всех синтаксисах, а также опыт работы с фреймворками Bootstrap и Tailwind CSS. Кроме того, я уверенно владею JavaScript.
+- Мои профессиональные достижения включают успешный опыт работы с системой контроля версиями Git и эффективное сотрудничество через платформу GitHub. Я также обладаю опытом работы со сборщиками проектов, включая Vite, и владею менеджером пакетов NPM (Node Package Manager), что помогает мне эффективно управлять проектами и их зависимостями. Кроме того, я глубоко понимаю SQL и базы данных, особенно реляционные, но также имею представление о NoSQL-решениях, что расширяет мои знания и возможности в области хранения и обработки данных.
+- В настоящее время мое внимание сосредоточено на изучении React и планировании перехода к более продвинутым фреймворкам, таким как Next.js и Nest.js. Это позволяет мне расширить мои навыки в разработке веб-приложений и создать ещё более мощные и масштабируемые проекты.
+- Моя постоянная цель - постоянное совершенствование навыков и поиск новых возможностей для роста в сфере frontend-разработки.
 
-### Education (образование):
-- I have a vocational education in programming for computer systems. 
-- However, I believe that the majority of my knowledge and skills were obtained through self-education using the self-learning method. 
-- I am passionate about programming and constantly seek new ways to expand my experience and knowledge in this field. 
-- I am confident that this will allow me to become a successful professional in the programming industry and achieve high results in my career.
+### Пару слов о моем опыте работы:
 
-### Technologies (технологии):
+- Несмотря на отсутствие официального опыта работы в IT-индустрии, мой коммерческий опыт представляет собой важный актив. Я успешно реализовал разнообразные проекты, включая создание качественных веб-сайтов и современных веб-приложений с использованием API-интеграции. Кроме того, моя деятельность включала разработку игровых проектов и многое другое. Эти задачи способствовали активному развитию моих навыков и непрерывному совершенствованию моих знаний в области программирования.
+- Мой опыт также обогатил меня в плане работы в командной среде и решения разнообразных задач, связанных с программированием. Я проходил собеседования в неплохие IT-компании, что дало мне ценный опыт взаимодействия с профессиональными разработчиками и освоение лучших практик.
+- Мой опыт, даже на уровне практики, в Сбере предоставил мне возможность погрузиться в атмосферу крупной корпорации и глубже понять, как функционируют масштабные IT-проекты. Эта ценная практика позволила мне оценить внутренние процессы и структуру такой организации. Я готов к новым вызовам и нацелен на применение своего обширного опыта и знаний, чтобы стать ценным участником команды разработчиков и добиться успеха в данной области.
+
+### Образование:
+
+- На данный момент я прохожу обучение в среднем профессиональном учебном заведении, где изучаю программирование в компьютерных системах (по крайней мере так написано, вхавхахвх). Тем не менее, следует отметить, что все мои знания и навыки в этой области я получил благодаря самообразованию и методу самообучения. Мое увлечение программированием побуждает меня постоянно искать новые способы расширения своего опыта и знаний. Я уверен, что это позволит мне в будущем стать успешным профессионалом в индустрии программирования и добиться выдающихся результатов в своей карьере.
+
+### Стэк используемых технологии:
 
 - HTML5  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +30,9 @@
 - Bootstrap 5  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+- Tailwind CSS  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 - JavaScript  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -43,12 +45,12 @@
 - Package Managers  
 ![NPM](https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+- Build Tools  
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
 - MySQL  
 ![MySQL](https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-### Parting words (напутствие):
-- If you, like me, have decided to explore the IT industry, don't stop and keep moving forward! 
-- Learning new technologies may seem difficult and sometimes even tiring, but every step you take will lead you to new knowledge and skills. 
-- Never hesitate to ask questions and seek help from more experienced developers. 
-- And most importantly, don't forget to enjoy the process - working in the IT field can be very exciting and rewarding if you learn to find pleasure in what you do. 
-- It will all work out if you are persistent and determined!
+### Напутствие:
+
+- Если вы, как и я, решили исследовать IT-индустрию, то не останавливайтесь и продолжайте двигаться вперед! Помните, что изучение новых технологий может показаться сложным и иногда утомительным, но каждый ваш шаг приближает вас к новым знаниям и навыкам. Никогда не стесняйтесь задавать вопросы и обращаться за помощью к более опытным разработчикам. И, самое главное, не забывайте получать удовольствие от процесса - работа в сфере ИТ может быть захватывающей и очень наградительной, если вы научитесь находить удовольствие в том, что делаете. Все обязательно получится, главное не свернуть с пути!
