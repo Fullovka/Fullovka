@@ -18,42 +18,48 @@
 <h3 align="center"> Стэк используемых технологий: </h3>
 
 <div align="center">
-    <div>
-        <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' width='115' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='' width='120' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='125' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='130' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='' width='160' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' width='180' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' width='160' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white' alt='' width='130' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white' alt='' width='125' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='' width='120' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='' width='115' height='100%'/>
-    </div>
-    <div>
-        <img src='https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white' alt='' width='110' height='100%'/>
-    </div>
+  <table>
+    <tr>
+      <td>
+        <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='' width='100%' height='100%'/>
+      </td>
+      <td>
+        <img src='https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white' alt='' width='100%' height='100%'/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="center"> Золотые правила для вашего дальнейшего пути: </h3>
