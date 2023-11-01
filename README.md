@@ -19,7 +19,7 @@
 
 <div align="center">
   <table>
-    <tr>
+    <tr height="65">
       <td>
         <img align="center" src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
@@ -39,7 +39,7 @@
         <img align="center" src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
     </tr>
-    <tr>
+    <tr height="65">
       <td>
         <img align="center" src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' width='100%' height='100%'/>
       </td>
