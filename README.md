@@ -21,42 +21,42 @@
   <table>
     <tr height="65">
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' max-width='100%' height='40'/>
+        <img align="center" src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='' max-width='100%' height='40'/>
+        <img align="center" src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' max-width='100%' height='40'/>
+        <img align="center" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' max-width='100%' height='40'/>
+        <img align="center" src='https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='' max-width='100%' height='30'/>
+        <img align="center" src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' max-width='100%' height='30'/>
+        <img align="center" src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
     </tr>
     <tr height="65">
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' max-width='100%' height='30'/>
+        <img align="center" src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white' alt='' max-width='100%' height='40'/>
+        <img align="center" src='https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white' alt='' max-width='100%' height='35'/>
+        <img align="center" src='https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='' max-width='100%' height='40'/>
+        <img align="center" src='https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='' max-width='100%' height='45'/>
+        <img align="center" src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='' width='100%' height='100%'/>
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white' alt='' max-width='100%' height='45'/>
+        <img align="center" src='https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white' alt='' width='100%' height='100%'/>
       </td>
     </tr>
   </table>
