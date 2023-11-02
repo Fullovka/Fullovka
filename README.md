@@ -19,48 +19,58 @@
 
 <div align="center">
   <table>
-    <tr height="65">
+    <tr height="60">
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' width='100%' height='100%'/>
+        <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white' alt='' width="100%" height="100%" />
       </td>
     </tr>
-    <tr height="65">
+    <tr height="60">
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/Git-%23FF6F00.svg?style=for-the-badge&logo=git&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/github-%2336465D.svg?style=for-the-badge&logo=github&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/NPM-%23FF0000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' width="100%" height="100%" />
       </td>
       <td align="center">
-        <img align="center" src='https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white' alt='' width='100%' height='100%'/>
+        <img align="center" src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' alt='Vite' width="100%" height="100%" />
+      </td>
+    </tr>
+    <tr height="60">
+      <td align="center">
+        <img align="center" src='https://img.shields.io/badge/mysql-CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' width="100%" height="100%" />
+      </td>
+      <td align="center">
+        <img align="center" src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' alt='Figma' width="100%" height="100%" />
       </td>
     </tr>
   </table>
 </div>
+
+
 
 <h3 align="center"> Золотые правила для вашего дальнейшего пути: </h3>
 
