@@ -41,7 +41,7 @@
     <tbody>
         <!-- Языки разметки и стилей -->
         <tr>
-            <td width="250" rowspan="2" align="center"><strong>Языки разметки и стилей</strong></td>
+            <td width="220" rowspan="2" align="center"><strong>Языки разметки и стилей</strong></td>
             <td align="center">HTML5</td>
             <td align="center">Язык гипертекстовой разметки</td>
             <td align="center">5</td>
